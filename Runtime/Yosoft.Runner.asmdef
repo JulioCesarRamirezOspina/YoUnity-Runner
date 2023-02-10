@@ -1,10 +1,8 @@
 {
     "name": "Yosoft.Runner",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "references": ["GUID:257fac819764492793003a79fb8756ab"],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
